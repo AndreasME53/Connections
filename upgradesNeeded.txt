@@ -1,0 +1,8 @@
+These are the following upgrades needed for the Connection program:
+
+1>        Need to re edit Friends Class to confirm the name of each method.
+2>        Need to write a README file to explain the program and how to use it.
+3>        Need to add the Linear Complexity code for the finding Friends method (the solution is to use a hashMap).
+
+
+4>        Possibly later i may create a javaFX interface to make it more appealing  
